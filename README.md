@@ -2,7 +2,7 @@
 
 🚀 **DevOps Engineer | Student at Sirius University College**
 
-Я увлечен автоматизацией, контейнеризацией и построением надежной инфраструктуры. Имею опыт стажировки в VK и побед в хакатонах.
+I am passionate about infrastructure as code, containerization, and building reliable CI/CD pipelines. My focus is on automating deployment processes and optimizing server environments using modern DevOps tools.
 
 ---
 
@@ -33,27 +33,18 @@
 
 ---
 
-### 🏆 Key Achievements & Projects
-
-🥇 **Хакатон форум "Выбирай" (1st Place)**
-*   Контейнеризировал ML-сервис (YOLO + Flask), оптимизировал Docker образы.
-*   Настроил оркестрацию через Docker Compose + Nginx (reverse-proxy).
-*   Внедрил CI пайплайн на GitHub Actions.
-
-🥇 **Сириус.ИИ (1st Place)**
-*   Разработка сервиса поддержки врачебных решений.
-*   Отвечал за развертывание в медицинских учреждениях.
-
-🏅 **Хакатон 3.0 (4th Place)**
-*   Оркестрация микросервисов (Backend + ML) через Docker Compose.
-*   Обеспечение идентичности окружения и базовый CI/CD.
-
----
-
 ### 💼 Experience
 
 *   **OOO "VK" (ВКонтакте)** — Стажёр отдела ручного тестирования (Summer 2024).
     *   Тест-планы, Jira, API testing, Documentation.
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danilwod/danilwod/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danilwod/danilwod/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/danilwod/danilwod/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
