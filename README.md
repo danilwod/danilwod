@@ -38,6 +38,8 @@ I am passionate about infrastructure as code, containerization, and building rel
   <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo"  />
 </div>
 
+---
+
 ### 💼 Experience
 
 *   **OOO "VK" (ВКонтакте)** — Стажёр отдела ручного тестирования (Summer 2024).
